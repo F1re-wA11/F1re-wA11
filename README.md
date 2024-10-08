@@ -5,10 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on CTF's
-- 🌱 I’m currently learning cybersecurity
-- 📫 How to reach me: grayson.stutz@s.stemk12.org
-- 😄 Pronouns: He/Him
+- I’m currently working on CTF's
+- I’m currently learning cybersecurity
+- How to reach me: grayson.stutz@s.stemk12.org
+- Pronouns: He/Him
+- Languages: Python, JS, HTML
 <!--
 - ⚡ Fun fact: ... 
 - 💬 Ask me about ...  
