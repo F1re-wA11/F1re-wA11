@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- I’m currently working on CTF's
-- I’m currently learning cybersecurity
-- How to reach me: grayson.stutz@s.stemk12.org
+- I’m currently working on Fullstack Development
+- I’m currently learning Backend Development
+- How to reach me: graysonstutz@gmail.com
 - Pronouns: He/Him
-- Languages: Python, JS, HTML
+- Languages: Python, JS, HTML, CSS
 <!--
 - ⚡ Fun fact: ... 
 - 💬 Ask me about ...  
